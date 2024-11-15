@@ -1,0 +1,5 @@
+# MPD
+/config/mpd/share/mpd.db
+/config/mpd/share/mpd.log
+/config/mpd/share/playlists/*.m3u8
+/config/mpd/state/mpdstate
