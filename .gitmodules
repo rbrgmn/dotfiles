@@ -4,3 +4,12 @@
 [submodule "config/foot"]
 	path = config/foot
 	url = https://github.com/rbrgmn/dotfiles_foot.git
+[submodule "config/tmux"]
+	path = config/tmux
+	url = https://github.com/rbrgmn/dotfiles_tmux
+[submodule "config/waybar"]
+	path = config/waybar
+	url = https://github.com/rbrgmn/dotfiles_waybar
+[submodule "config/sway"]
+	path = config/sway
+	url = https://github.com/rbrgmn/dotfiles_sway
